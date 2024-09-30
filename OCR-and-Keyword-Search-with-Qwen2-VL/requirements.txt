@@ -1,0 +1,6 @@
+gradio
+transformers
+torch
+Pillow
+regex
+accelerate>=0.26.0
